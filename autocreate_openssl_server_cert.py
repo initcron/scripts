@@ -6,6 +6,8 @@ ideally suited to be packages with a software appliance with admin
 interface uses SSL and manual generation of SSL certs is not the 
 ideal option. 
 
+Requires: Python, Pexpect
+
 Author: Gourav Shah (gs@initcron.org)
 http://www.initcron.org | http://www.initcron.com
 Version: 1.0 
