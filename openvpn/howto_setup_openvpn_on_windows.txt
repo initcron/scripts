@@ -1,0 +1,15 @@
+1. Install openvpn gui for windows from http://openvpn.se/download.html
+(Installation Package) if not already attached with this email. 
+
+2. Go to Start => All Programs => OpenVPN => OpenVPN Configuration File
+Directory
+Copy all the attached files ( ca.crt,  <NAME>.key, <NAME>.crt,
+client.ovpn) in this directory.
+
+3. Launch  Start => All Programs => OpenVPN => OpenVPN GUI
+
+4. In the taskbar (down right corner), right click on  OpenVPN GUI and
+choose "connect" option.
+
+Thanks
+India Operations
