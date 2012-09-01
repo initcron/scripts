@@ -10,6 +10,3 @@ client.ovpn) in this directory.
 
 4. In the taskbar (down right corner), right click on  OpenVPN GUI and
 choose "connect" option.
-
-Thanks
-India Operations
